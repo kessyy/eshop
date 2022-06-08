@@ -2,17 +2,15 @@
 
 This is an online shopping platform.
 
-<!-- app images -->
+## App Screenshots
 
+![App LogIn]<img src ="assets/images/login.jpg" height="330" width="200"> ![Main Page]<img src="assets/images/home.jpg" height="330" width="200"> ![Home Page]<img src ="assets/images/home2.jpg" height="330" width="200"> ![Categories page]<img src="assets/images/categories.jpg" height="330" width="200"> ![Categories layout]<img src="assets/images/single category.jpg" height="330" width="200">
 
-## Getting Started
+### Getting Started
 
-This project is a starting point for a Flutter application.
+Download Project
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Install required dependacies and run App
 
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
