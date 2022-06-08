@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "170824480737",
+    "project_id": "swape-user",
+    "storage_bucket": "swape-user.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:170824480737:android:2b95c16f07c4ed882084a0",
+        "android_client_info": {
+          "package_name": "com.bricktechnologies.swape"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "170824480737-jrba1lo02tsdf73412hac8aul6b4dilj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDK2iJvdrAKxI0Hah1s3nlEhH3fAvtt0D4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "170824480737-jrba1lo02tsdf73412hac8aul6b4dilj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
