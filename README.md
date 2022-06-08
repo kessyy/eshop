@@ -1,6 +1,6 @@
-# Swape App
+# My Shop
 
-A new Flutter setup application for starting a project.
+This is an online shopping platform.
 
 ## Getting Started
 
